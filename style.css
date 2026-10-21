@@ -1,0 +1,44 @@
+body {
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(179, 202, 195);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.qudro {
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+background-color:black;
+border-radius: 1Opx;
+padding: 40px;
+width: 100%;
+}
+button {
+   border-radius: 50px;
+   color: black;
+   align-items: center;
+   font-family: fantasy;
+   flex-direction: column;
+}
+main {
+    color: black;
+}
+header {
+    font-size: larger;
+    border-radius: 50px;
+    border: 50px;
+}
+p {
+    color: rgb(71, 62, 62);
+}
+footer {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    border-radius: 50px;
+    padding: 40px;
+    width: 50%;
+}
